@@ -9,7 +9,7 @@ public class Abstractsample {
          System.out.println("Kelilingnya = " + obyek1.hitungKeliling());
          System.out.println("\n");
          
-         Lingkaran obyek2 = new Lingkaran(7);
+         bangunDatar obyek2 = new Lingkaran(7);
          System.out.println("Luas Lingkaran dengan jari-jari 7 = " +obyek2.hitungLuas());
          System.out.println("Kelilingnya = " + obyek2.hitungKeliling());
      }
